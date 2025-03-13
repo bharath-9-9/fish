@@ -6,7 +6,6 @@ flatbuffers==25.2.10
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.71.0
-gunicorn==23.0.0
 h5py==3.13.0
 idna==3.10
 keras==3.9.0
@@ -28,7 +27,7 @@ rich==13.9.4
 six==1.17.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-https://storage.googleapis.com/tensorflow/versions/2.18.0/tensorflow-2.18.0-cp310-cp310-win_amd64.whl
+tensorflow @ https://storage.googleapis.com/tensorflow/versions/2.18.0/tensorflow-2.18.0-cp310-cp310-win_amd64.whl
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow_intel==2.18.0
 termcolor==2.5.0
