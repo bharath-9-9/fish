@@ -28,7 +28,7 @@ rich==13.9.4
 six==1.17.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
-tensorflow @ https://storage.googleapis.com/tensorflow/versions/2.18.0/tensorflow-2.18.0-cp310-cp310-win_amd64.whl
+tensorflow@https://storage.googleapis.com/tensorflow/versions/2.18.0/tensorflow_cpu-2.18.0-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
 tensorflow-io-gcs-filesystem==0.31.0
 tensorflow_intel==2.18.0
 termcolor==2.5.0
